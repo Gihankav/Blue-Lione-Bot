@@ -13,7 +13,7 @@ global.APIKeys = {
 
 
 global.OWNER_REACT = '🧑🏻‍💻'
-global.REACT_NUMBER = '72437783'
+global.REACT_NUMBER = '94751439885'
 
 //aumto functioner
 global.autoTyping = false //auto tying in gc (true to on, false to off)
@@ -41,8 +41,8 @@ global.socialm = "GitHub: Nipuna-apps" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-global.owner = ['772437783']
-global.ownertag = '772437783' //ur tag number
+global.owner = ['751439885']
+global.ownertag = '75 143 9885' //ur tag number
 global.botname = '⚜𝓑𝓵𝓾𝓮 𝓛𝓲𝓸𝓷𝓮⚜' //ur bot name
 global.linkz = "https://github.com/Nipuna-apps/Blue-Lione-Bot.git" //your theme url which will be displayed on whatsapp
 global.websitex = "https://github.com/Nipuna-apps/Blue-Lione-Bot.git" //ur website to be displayed
